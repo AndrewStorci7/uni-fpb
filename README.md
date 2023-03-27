@@ -1,2 +1,4 @@
-# uni-fpb
-Fondamenti di programmazione B
+# Fondamenti di Programmazione B
+### Linguaggi utilizzati:
+- C++
+- Java
