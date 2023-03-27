@@ -2,3 +2,7 @@
 ### Linguaggi utilizzati:
 - C++
 - Java
+</hr >
+## Sezioni:
+- Classi in c++
+- 
