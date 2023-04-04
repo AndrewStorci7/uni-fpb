@@ -140,9 +140,17 @@ void chooseFun(Vector* v_a, int d, bool valid, int f, string s) {
 void cast_str_fun (string s, Vector* v_a, int& d) {
     if ( s.at(0) == '|' && s.at(1) == '|' ) {
         // TODO: NORMA
+        int i_char = 0;
+        string f_v = "", s_v = "";
         for ( int i = 2; i < s.length(); i++ ) {
-            
+            if ( s.at(i) == ',' ) {
+                i_char = i;
+                f_v = s.substr(2, i-1);
+            }
+            if ( s.at(i) == '>' )
+                s_v = s.substr(i_char + 1, i-1);
         }
+
     } else if ( s.at(0) == '<' ) {
         // TODO: prodotto scalare
     } else if ( s.at(0) == 'p' && s.at(1) == 'r' ) {
