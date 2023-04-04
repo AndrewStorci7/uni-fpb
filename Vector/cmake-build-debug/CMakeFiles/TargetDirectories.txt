@@ -1,3 +1,3 @@
-/home/andrew-drink/Scrivania/C++ Projects/Vector/cmake-build-debug/CMakeFiles/Vector.dir
-/home/andrew-drink/Scrivania/C++ Projects/Vector/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/andrew-drink/Scrivania/C++ Projects/Vector/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/sandr/OneDrive/Desktop/UNIpr/uni-fpb/Vector/cmake-build-debug/CMakeFiles/Vector.dir
+C:/Users/sandr/OneDrive/Desktop/UNIpr/uni-fpb/Vector/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sandr/OneDrive/Desktop/UNIpr/uni-fpb/Vector/cmake-build-debug/CMakeFiles/rebuild_cache.dir
