@@ -1,0 +1,3 @@
+C:/Users/sandr/OneDrive/Desktop/UNIpr/FONDAMENTI PROGR. B/Cittadini/cmake-build-debug/CMakeFiles/Cittadini.dir
+C:/Users/sandr/OneDrive/Desktop/UNIpr/FONDAMENTI PROGR. B/Cittadini/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sandr/OneDrive/Desktop/UNIpr/FONDAMENTI PROGR. B/Cittadini/cmake-build-debug/CMakeFiles/rebuild_cache.dir
