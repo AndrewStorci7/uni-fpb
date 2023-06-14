@@ -1,0 +1,15 @@
+# ninja log v5
+1	789	7084793347368624	CMakeFiles/razionale.dir/main.cpp.obj	364fe7ce859cb0d6
+791	1270	7084793352156101	razionale.exe	cadfb6cef1b600e9
+5	571	7084795119286696	CMakeFiles/razionale.dir/main.cpp.obj	364fe7ce859cb0d6
+572	816	7084795121702049	razionale.exe	cadfb6cef1b600e9
+4	525	7084796601048788	CMakeFiles/razionale.dir/main.cpp.obj	364fe7ce859cb0d6
+525	731	7084796603095139	razionale.exe	cadfb6cef1b600e9
+4	470	7084797666428017	CMakeFiles/razionale.dir/main.cpp.obj	364fe7ce859cb0d6
+470	695	7084797668659948	razionale.exe	cadfb6cef1b600e9
+5	450	7084797935204882	CMakeFiles/razionale.dir/main.cpp.obj	364fe7ce859cb0d6
+450	656	7084797937256268	razionale.exe	cadfb6cef1b600e9
+6	650	7084799479461194	CMakeFiles/razionale.dir/main.cpp.obj	364fe7ce859cb0d6
+650	827	7084799481231696	razionale.exe	cadfb6cef1b600e9
+4	465	7084800135700924	CMakeFiles/razionale.dir/main.cpp.obj	364fe7ce859cb0d6
+465	649	7084800137531611	razionale.exe	cadfb6cef1b600e9
