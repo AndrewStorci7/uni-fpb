@@ -1,0 +1,3 @@
+C:/Users/sandr/OneDrive/Desktop/UNIpr/uni-fpb/Parlamento/cmake-build-debug/CMakeFiles/Parlamento.dir
+C:/Users/sandr/OneDrive/Desktop/UNIpr/uni-fpb/Parlamento/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sandr/OneDrive/Desktop/UNIpr/uni-fpb/Parlamento/cmake-build-debug/CMakeFiles/rebuild_cache.dir
