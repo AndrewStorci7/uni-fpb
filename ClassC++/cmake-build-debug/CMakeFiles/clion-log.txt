@@ -1,0 +1,4 @@
+/home/andrew-drink/app/clion-2022.2.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/andrew-drink/app/clion-2022.2.3/bin/ninja/linux/ninja -G Ninja -S /home/andrew-drink/Scrivania/uni-fpb/ClassC++ -B /home/andrew-drink/Scrivania/uni-fpb/ClassC++/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/andrew-drink/Scrivania/uni-fpb/ClassC++/cmake-build-debug
