@@ -3,6 +3,7 @@
 //
 
 #include <iostream>
+#include <exception>
 using namespace std;
 
 class Razionale {
@@ -17,11 +18,9 @@ public:
 
     Razionale(int n, int d) {
         this->n = n;
-        if (d == 0) {
-            cerr << "Denominatore uguale a zero!"
-                    "\nDi default verrà messo il valore 1\n";
-            this->d = 1;
-        } else
+        if (d == 0)
+            throw invalid_argument("Error: il denominatore non può essere uguale a 0");
+        else
             this->d = d;
     }
 
@@ -38,9 +37,14 @@ public:
 };
 
 istream& operator>>(istream& is, Razionale& r) {
+    cout << "Inserisci il numero razionale (n/d): ";
     int n, d;
     char sep;
     is >> n >> sep >> d;
+    if (sep != '/')
+        throw invalid_argument("Error: separatore diverso dal carattere atteso: '/'");
+    if (d == 0)
+        throw invalid_argument("Error: il denominatore non può essere uguale a 0");
     r = Razionale(n, d);
     return is;
 }
@@ -52,7 +56,14 @@ ostream& operator<<(ostream& os, const Razionale& r) {
 
 int main() {
     Razionale r;
-    cin >> r;
+    while (true) {
+        try {
+            cin >> r;
+            break;
+        } catch (const exception& e) {
+            cout << e.what() << endl;
+        }
+    }
     cout << r;
     return 0;
 }

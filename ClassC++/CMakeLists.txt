@@ -3,4 +3,4 @@ project(ClassC++)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(ClassC++ stringset.cpp)
+add_executable(ClassC++ vector.cpp)
