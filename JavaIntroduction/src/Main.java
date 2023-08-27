@@ -5,6 +5,9 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        /**
+         * ESERCIZIO DATA
+         */
 //        Data data = null;
 //        while (true) {
 //            System.out.println("Inserisci la data (dd/mm/yyyy):");
@@ -21,9 +24,15 @@ public class Main {
 //
 //        System.out.println(data.toStringAdvanced());
 
+        /**
+         * ESERCIZIO TRIANGOLO
+         */
 //        Triangolo t = new Triangolo(5);
 //        System.out.println(t.toString());
-//
+
+        /**
+         * ESERCIZIO MASSIMO IN ARRAY
+         */
 //        int MAX_ARR = 100;
 //        int[] A = new int[MAX_ARR];
 //        int i = 0, n = 0, max = 0;
@@ -42,6 +51,9 @@ public class Main {
 //        }
 //        System.out.println("Il massimo è " + max);
 
+        /**
+         * ESERCIZIO STRINGHE
+         */
         String s = "";
         System.out.println("Inserisci una stringa: ");
         s = sc.nextLine();
@@ -51,6 +63,9 @@ public class Main {
         System.out.println("Stringa modificata: " + r);
 
 
+        /**
+         * ESERCIZIO MEDIA
+         */
 //        int x, y, z;
 //        System.out.print("Inserisci 3 numeri interi: ");
 //        x = sc.nextInt();
