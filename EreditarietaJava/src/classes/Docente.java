@@ -16,7 +16,7 @@ public class Docente extends Persona {
     public String toString() {
         return "Docente " + this.n + " " + this.s + " {" +
                 super.toString() +
-                "\n\tinsegnamento: " + this.i +
-                "\n}\n";
+                "\n\t\tinsegnamento: " + this.i +
+                "\n\t}\n";
     }
 }
